@@ -4,5 +4,6 @@
     <fullyQualifiedTypeName name="entities.Rectangle"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="entities.Account"/>
+    <fullyQualifiedTypeName name="entities.Pessoa"/>
     <fullyQualifiedTypeName name="java.util.Locale"/>
 </qualifiedTypeNameHistroy>
